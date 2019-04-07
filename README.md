@@ -142,6 +142,7 @@
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
 
 ## Tutorials from different topics
+* Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
 * The coding club https://ourcodingclub.github.io/tutorials/
 * Javascript vs Data science https://software-tools-in-javascript.github.io/js-vs-ds/en/
 * Tutorial: build a blog with Jekyll and GitHub pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
