@@ -125,6 +125,10 @@
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 
+### Tutorials
+* Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
+* Swirl. Learn R in R https://swirlstats.com/
+
 ## Education
 * Free teaching sources https://github.com/rstudio-education/rstats-ed
 * Learn the Tidyverse https://www.tidyverse.org/learn/
