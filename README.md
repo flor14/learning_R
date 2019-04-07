@@ -67,6 +67,7 @@
 * Developing and deploying large scale Shiny applications _Herman Sontrop_ [video] http://bit.ly/2QT8rMx
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
+* Building big Shiny Apps _Colin Fay_ https://thinkr-open.github.io/building-shiny-apps-workflow/golem.html
 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
