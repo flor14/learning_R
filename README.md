@@ -124,6 +124,7 @@
 * Writing articles and reproducible documents R _Anna Quagleri__2019_ https://rpubs.com/annaquagli/471405
 * Research Software _The Carpentries_ https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/
 * Transparent and Reproducible Research with R _University of Oregon_ https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md
+
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 
@@ -134,6 +135,7 @@
 ## Education
 * Free teaching sources https://github.com/rstudio-education/rstats-ed
 * Learn the Tidyverse https://www.tidyverse.org/learn/
+* Ten quick tips for creating an effective lesson _Greg Wilson_ http://bit.ly/2IqHbUq
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
