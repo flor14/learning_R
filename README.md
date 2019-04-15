@@ -125,6 +125,9 @@
 * Research Software _The Carpentries_ https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/
 * Transparent and Reproducible Research with R _University of Oregon_ https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md
 
+## Statistics with R
+Open Intro https://www.openintro.org/
+Bourses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 
@@ -136,6 +139,7 @@
 * Free teaching sources https://github.com/rstudio-education/rstats-ed
 * Learn the Tidyverse https://www.tidyverse.org/learn/
 * Ten quick tips for creating an effective lesson _Greg Wilson_ http://bit.ly/2IqHbUq
+* Primers rstudio.cloud/learn/primers
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
