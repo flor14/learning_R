@@ -126,8 +126,9 @@
 * Transparent and Reproducible Research with R _University of Oregon_ https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md
 
 ## Statistics with R
-Open Intro https://www.openintro.org/
-Bourses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
+* Open Intro https://www.openintro.org/
+* Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
+
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 
