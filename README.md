@@ -141,6 +141,7 @@
 * Learn the Tidyverse https://www.tidyverse.org/learn/
 * Ten quick tips for creating an effective lesson _Greg Wilson_ http://bit.ly/2IqHbUq
 * Primers rstudio.cloud/learn/primers
+* Building interactive courses _ines_ https://github.com/ines/course-starter-r
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
