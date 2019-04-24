@@ -142,7 +142,7 @@
 * Ten quick tips for creating an effective lesson _Greg Wilson_ http://bit.ly/2IqHbUq
 * Primers rstudio.cloud/learn/primers
 * Building interactive courses _ines_ https://github.com/ines/course-starter-r
-* Reviewing lessons _Greg Wilson_http://bit.ly/2IT5rir
+* Reviewing lessons _Greg Wilson_ http://bit.ly/2IT5rir
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
