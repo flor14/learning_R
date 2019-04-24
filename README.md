@@ -76,6 +76,7 @@
 * R Markdown and knitr make it easy to intermingle code and text to generate compelling reports and presentations that are never out of date. [video] http://bit.ly/2A9MH9E
 * Beyond static reports with R Markdown [video] http://bit.ly/2Ac2jtd
 * Introducing Notebooks with R Markdown [video] http://bit.ly/2AaYPXH
+* Pimp my Rmd https://holtzy.github.io/Pimp-my-rmd/
 
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
