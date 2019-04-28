@@ -129,6 +129,7 @@
 ## Statistics with R
 * Open Intro https://www.openintro.org/
 * Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
+* Estadistica Computacional https://tereom.github.io/est-computacional-2018/
 
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
