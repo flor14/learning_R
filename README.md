@@ -133,6 +133,7 @@
 
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
+* Evaluating the Success of a Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1904.11907
 
 ### Tutorials
 * Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
