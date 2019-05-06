@@ -164,3 +164,6 @@
 * Tutorials for multiple programming languajes by Mike Dane https://www.mikedane.com/
 * https://databasic.io/es/
 
+## Building interactive courses
+* Online course starter: R https://github.com/ines/course-starter-r
+
