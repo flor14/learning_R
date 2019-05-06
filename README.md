@@ -154,6 +154,7 @@
 * Seascape models. Resources to solve environmental problems.  http://www.seascapemodels.org/code.html
 * Resources for Taxonomy and Biodiversity. ROpenSci. https://ropensci.org/blog/2019/03/11/commcall-mar2019/
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
+* Data carpentry for Biologists https://datacarpentry.org/semester-biology/nav/getting-started/
 
 ## Tutorials from different topics
 * Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
