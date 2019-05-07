@@ -11,6 +11,7 @@
 * Advanced R _Hadley Wickham_ http://bit.ly/2AapVhT
 * El arte de programar en R _Julio Sergio Santana & Efraín Mateos Farfán_ [español]  http://bit.ly/2N2Y1Y8
 * Wikibook R Programming https://en.wikibooks.org/wiki/R_Programming
+* Modern Dive. Chapter 2 Getting Started with Data in R https://moderndive.com/2-getting-started.html
 
 ## String manipulation
 * String Manipulation in R with stringr (Rpubs) https://rpubs.com/iPhuoc/stringr_manipulation
