@@ -55,6 +55,7 @@
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
+
 ### Books 
 * Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
 * Data Visualization with R. _Rob Kabacoff_ http://bit.ly/2A9pLaj
@@ -131,6 +132,7 @@
 * Open Intro https://www.openintro.org/
 * Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
 * Estadistica Computacional https://tereom.github.io/est-computacional-2018/
+* Learning statistics with R https://learningstatisticswithr.com/book/
 
 ### PCA
 * Introduction to statistical learning de Hastie y Tibshirani https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
