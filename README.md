@@ -124,9 +124,10 @@
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 * Archiving a Research Project Website on Zenodo. Opening Reproducible Research. https://o2r.info/2019/02/24/archiving-jekyll-zenodo/
 * Open research software and open source. Eliademy. https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html
-* Writing articles and reproducible documents R _Anna Quagleri__2019_ https://rpubs.com/annaquagli/471405
+* Writing articles and reproducible documents R _Anna Quagleri_ https://rpubs.com/annaquagli/471405
 * Research Software _The Carpentries_ https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/
 * Transparent and Reproducible Research with R _University of Oregon_ https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md
+* Challenges in irreproducible research _Nature_ https://www.nature.com/collections/prbfkwmwvz/
 
 ## Statistics with R
 * Open Intro https://www.openintro.org/
