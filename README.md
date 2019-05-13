@@ -165,6 +165,10 @@
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
 * Data carpentry for Biologists https://datacarpentry.org/semester-biology/nav/getting-started/
 
+## Testing
+
+* Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
+
 ## Tutorials from different topics
 * Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
 * The coding club https://ourcodingclub.github.io/tutorials/
