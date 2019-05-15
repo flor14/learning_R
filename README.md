@@ -128,6 +128,8 @@
 * Research Software _The Carpentries_ https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/
 * Transparent and Reproducible Research with R _University of Oregon_ https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md
 * Challenges in irreproducible research _Nature_ https://www.nature.com/collections/prbfkwmwvz/
+* Oh shit Git! https://ohshitgit.com/
+* Git for humans _Alice Bartlett_ https://speakerdeck.com/alicebartlett/git-for-humans
 
 ## Statistics with R
 * Open Intro https://www.openintro.org/
