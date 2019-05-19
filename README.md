@@ -120,7 +120,7 @@
 * Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ http://bit.ly/2TzxMwU
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 
-## Reproducible Research 
+## Reproducible Research & Open Science
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 * Archiving a Research Project Website on Zenodo. Opening Reproducible Research. https://o2r.info/2019/02/24/archiving-jekyll-zenodo/
 * Open research software and open source. Eliademy. https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html
@@ -130,6 +130,7 @@
 * Challenges in irreproducible research _Nature_ https://www.nature.com/collections/prbfkwmwvz/
 * Oh shit Git! https://ohshitgit.com/
 * Git for humans _Alice Bartlett_ https://speakerdeck.com/alicebartlett/git-for-humans
+* Open Science: sharing your research with the world https://www.edx.org/course/open-science-sharing-your-research-with-the-world-2
 
 ## Statistics with R
 * Open Intro https://www.openintro.org/
