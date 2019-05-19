@@ -168,8 +168,12 @@
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
 * Data carpentry for Biologists https://datacarpentry.org/semester-biology/nav/getting-started/
 
-## Testing
+## Docker for the UseR
+* Docker for the UseR _Noam Ross_ https://github.com/noamross/nyhackr-docker-talk
+* An inroduction to Docker for R users _Colin Fay_ https://colinfay.me/docker-r-reproducibility/
+* Docker Documentation https://docs.docker.com/
 
+## Testing
 * Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
 
 ## Tutorials from different topics
