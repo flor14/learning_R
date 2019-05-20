@@ -188,3 +188,7 @@
 ## Building interactive courses
 * Online course starter: R https://github.com/ines/course-starter-r
 
+## Extra: Virtual meetings
+* Slack https://jitsi.org/slack/
+* Without installing www.appear.in
+* Zoom
