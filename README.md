@@ -55,6 +55,7 @@
 * ggplot2 package by Hadley Wickham (Rpubs) http://bit.ly/2AaaeqN
 * 7 Visualizations You Should Learn in R http://bit.ly/2NwhCBf
 * How to make fancy graphs with ggplot2 (Medium post) http://bit.ly/2PTV51W
+* Create BBC style graphics _BBC_ https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics
 
 ### Books 
 * Data Visualization A practical introduction _Kieran Healy_ http://bit.ly/2AaF9n2
