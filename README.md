@@ -176,6 +176,7 @@
 
 ## Testing
 * Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
+* Webinars TDD _Hernán Wilkinson_ https://university.10pines.com/webinars_and_videos
 
 ## Tutorials from different topics
 * Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
