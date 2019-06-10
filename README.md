@@ -197,3 +197,6 @@
 * Slack https://jitsi.org/slack/
 * Without installing www.appear.in
 * Zoom
+
+## Extra: R events worldwide
+* https://jumpingrivers.github.io/meetingsR/events.html
