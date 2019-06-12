@@ -133,7 +133,9 @@
 * Git for humans _Alice Bartlett_ https://speakerdeck.com/alicebartlett/git-for-humans
 * Open Science: sharing your research with the world https://www.edx.org/course/open-science-sharing-your-research-with-the-world-2
 * The Practice of Reproducible Research. Case Studies and Lessons from the Data-Intensive Sciences. _Justin Kitzes, Daniel Turek, Fatma Deniz_ https://www.practicereproducibleresearch.org/
-* 
+* netoma package Building your network using ORCID number https://downwithtime.wordpress.com/2015/02/12/building-your-network-using-orcid-and-ropensci/
+* workflowr package for researchers https://github.com/jdblischak/workflowr
+
 ## Statistics with R
 * Open Intro https://www.openintro.org/
 * Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
