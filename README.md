@@ -135,6 +135,13 @@
 * The Practice of Reproducible Research. Case Studies and Lessons from the Data-Intensive Sciences. _Justin Kitzes, Daniel Turek, Fatma Deniz_ https://www.practicereproducibleresearch.org/
 * netoma package Building your network using ORCID number https://downwithtime.wordpress.com/2015/02/12/building-your-network-using-orcid-and-ropensci/
 * workflowr package for researchers https://github.com/jdblischak/workflowr
+* The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+
+# Journals or pages related
+
+* Reproducibility Project: Psychology https://osf.io/ezcuj/
+* Curate Science https://curatescience.org/app/
+* ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
 
 ## Statistics with R
 * Open Intro https://www.openintro.org/
@@ -199,6 +206,11 @@
 * Slack https://jitsi.org/slack/
 * Without installing www.appear.in
 * Zoom
+* 
+
+## Other tools
+* Collaborative Markdown notes https://hackmd.io
+
 
 ## Extra: R events worldwide
 * https://jumpingrivers.github.io/meetingsR/events.html
