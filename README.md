@@ -172,6 +172,7 @@
 * Reviewing lessons _Greg Wilson_ http://bit.ly/2IT5rir
 * Teaching Tech Together _Greg Wilson_ http://teachtogether.tech/en/
 * Evidence-based teaching resources for undergraduate biology education https://www.coursesource.org/
+* How to Help Someone Use a Computer by Phil Agre https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/#comments
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
