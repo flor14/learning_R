@@ -206,10 +206,11 @@
 * Slack https://jitsi.org/slack/
 * Without installing www.appear.in
 * Zoom
-* 
+* https://meet.google.com
 
-## Other tools
+## Other tools for taking notes
 * Collaborative Markdown notes https://hackmd.io
+* The Carpentries Pad https://pad.carpentries.org
 
 
 ## Extra: R events worldwide
