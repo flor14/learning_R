@@ -141,6 +141,8 @@
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
 * Curate Science https://curatescience.org/app/
 * ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
+* MIT - Citing & publishing software: Publishing research software https://libguides.mit.edu/c.php?g=551454&p=3786120#s-lg-box-wrapper-14235641+
+* Journals for publishing software https://www.software.ac.uk/which-journals-should-i-publish-my-software
 
 ## Statistics with R
 * Open Intro https://www.openintro.org/
