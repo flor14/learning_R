@@ -138,7 +138,6 @@
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 
 # Journals or pages related
-
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
 * Curate Science https://curatescience.org/app/
 * ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
@@ -200,8 +199,11 @@
 * Tutorials for multiple programming languajes by Mike Dane https://www.mikedane.com/
 * https://databasic.io/es/
 
-## Building interactive courses
+## Courses
 * Online course starter: R https://github.com/ines/course-starter-r
+* 5 day course https://tidy-ds.wjakethompson.com/#hero
+* Visualización https://magrawala.github.io/cs448b-fa18/
+* RaukR 2019 https://nbisweden.github.io/RaukR-2019/
 
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
@@ -212,7 +214,6 @@
 ## Other tools for taking notes
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
-
 
 ## Extra: R events worldwide
 * https://jumpingrivers.github.io/meetingsR/events.html
