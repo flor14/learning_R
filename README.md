@@ -208,6 +208,7 @@
 * 5 day course https://tidy-ds.wjakethompson.com/#hero
 * Visualización https://magrawala.github.io/cs448b-fa18/
 * RaukR 2019 https://nbisweden.github.io/RaukR-2019/
+* Advance R course _doctoral school of Grenoble, France_ https://privefl.github.io/advr38book/index.html
 
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
