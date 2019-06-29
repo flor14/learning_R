@@ -188,6 +188,7 @@
 * An inroduction to Docker for R users _Colin Fay_ https://colinfay.me/docker-r-reproducibility/
 * Docker Documentation https://docs.docker.com/
 * Docker for begginers _Prakhar Srivastav_ https://docker-curriculum.com/#what-is-docker-
+* Dockerize a shinyapp https://www.bjoern-hartmann.de/post/learn-how-to-dockerize-a-shinyapp-in-7-steps/
 
 ## Testing
 * Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
