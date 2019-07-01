@@ -138,7 +138,7 @@
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 * Making your code citable _github_ https://guides.github.com/activities/citable-code/
 
-# Journals or pages related
+## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
 * Curate Science https://curatescience.org/app/
 * ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
@@ -161,6 +161,7 @@
 * Evaluating the Success of a Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1904.11907
 * AWS training and certification https://aws.amazon.com/es/training/learning-paths/machine-learning/data-scientist/
 * *español* Ciencia de datos para curiosos _Martín Montané_ https://bookdown.org/martinmontaneb/CienciaDeDatos/
+
 ### Tutorials
 * Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
 * Swirl. Learn R in R https://swirlstats.com/
