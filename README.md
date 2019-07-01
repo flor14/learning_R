@@ -159,7 +159,7 @@
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 * Evaluating the Success of a Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1904.11907
 * AWS training and certification https://aws.amazon.com/es/training/learning-paths/machine-learning/data-scientist/
-
+* *español* Ciencia de datos para curiosos _Martín Montané_ https://bookdown.org/martinmontaneb/CienciaDeDatos/
 ### Tutorials
 * Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
 * Swirl. Learn R in R https://swirlstats.com/
