@@ -136,6 +136,7 @@
 * netoma package Building your network using ORCID number https://downwithtime.wordpress.com/2015/02/12/building-your-network-using-orcid-and-ropensci/
 * workflowr package for researchers https://github.com/jdblischak/workflowr
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+* Making your code citable _github_ https://guides.github.com/activities/citable-code/
 
 # Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
