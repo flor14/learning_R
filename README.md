@@ -137,6 +137,7 @@
 * workflowr package for researchers https://github.com/jdblischak/workflowr
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 * Making your code citable _github_ https://guides.github.com/activities/citable-code/
+* Reproducible Science Curriculum https://github.com/Reproducible-Science-Curriculum
 
 ## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
@@ -221,6 +222,10 @@
 ## Other tools for taking notes
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
+
+## Slides
+* https://speakerdeck.com/
+* https://slides.com/
 
 ## Extra: R events worldwide
 * https://jumpingrivers.github.io/meetingsR/events.html
