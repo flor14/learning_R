@@ -105,6 +105,10 @@
 * Reproducible Research: Writing an R Package. http://bit.ly/2AarXi0 
 * Advanced R Course (Chapter 6: R Packages) _Florian Privé_ http://bit.ly/2QT53kN
 
+## Documenting packages
+* Roxygen2 https://kbroman.org/pkg_primer/pages/docs.html
+* Formatting Roxygen2 https://cran.r-project.org/web/packages/roxygen2/vignettes/formatting.html
+
 ### Books 
 * R Packages _Hadley Wickham_ http://r-pkgs.had.co.nz/
 
