@@ -142,6 +142,7 @@
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 * Making your code citable _github_ https://guides.github.com/activities/citable-code/
 * Reproducible Science Curriculum https://github.com/Reproducible-Science-Curriculum
+* RMarkdown for Scientists _Nicholas Tierney_ https://rmd4sci.njtierney.com/why-rmarkdown.html#overview
 
 ## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
