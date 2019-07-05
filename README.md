@@ -139,15 +139,19 @@
 * The Practice of Reproducible Research. Case Studies and Lessons from the Data-Intensive Sciences. _Justin Kitzes, Daniel Turek, Fatma Deniz_ https://www.practicereproducibleresearch.org/
 * netoma package Building your network using ORCID number https://downwithtime.wordpress.com/2015/02/12/building-your-network-using-orcid-and-ropensci/
 * workflowr package for researchers https://github.com/jdblischak/workflowr
-* The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 * Making your code citable _github_ https://guides.github.com/activities/citable-code/
 * Reproducible Science Curriculum https://github.com/Reproducible-Science-Curriculum
 * RMarkdown for Scientists _Nicholas Tierney_ https://rmd4sci.njtierney.com/why-rmarkdown.html#overview
 
+### ReproHack
+* Find out research reproducibility https://scigen.report/
+* The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+* ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
+* DRAKE package https://ropenscilabs.github.io/drake-manual/index.html#why-drake
+
 ## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
 * Curate Science https://curatescience.org/app/
-* ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
 * MIT - Citing & publishing software: Publishing research software https://libguides.mit.edu/c.php?g=551454&p=3786120#s-lg-box-wrapper-14235641+
 * Journals for publishing software https://www.software.ac.uk/which-journals-should-i-publish-my-software
 
