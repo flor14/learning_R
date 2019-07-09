@@ -124,6 +124,7 @@
 * Spatial Data Analysis and Modeling with R http://rspatial.org/
 * Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ http://bit.ly/2TzxMwU
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
+* Layouts https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html
 
 ## Reproducible Research & Open Science
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
