@@ -125,6 +125,7 @@
 * Geocomputation with R _Robin Lovelace, Jakub Nowosad, Jannes Muenchow_ http://bit.ly/2TzxMwU
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 * Layouts https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html
+* An Introduction to Spatial Data Analysis and Visualisation in R _Guy Lansley and James Cheshire_https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r
 
 ## Reproducible Research & Open Science
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
@@ -238,6 +239,7 @@
 ## Other tools for taking notes
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
+* CARBON Beautiful code chuncks http://bit.ly/30Mmatt
 
 ## Slides
 * https://speakerdeck.com/
