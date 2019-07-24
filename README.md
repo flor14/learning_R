@@ -80,6 +80,8 @@
 * Beyond static reports with R Markdown [video] http://bit.ly/2Ac2jtd
 * Introducing Notebooks with R Markdown [video] http://bit.ly/2AaYPXH
 * Pimp my Rmd https://holtzy.github.io/Pimp-my-rmd/
+* Embed files https://yihui.name/en/2018/07/embed-file/ - https://stackoverflow.com/questions/54072480/how-to-includeand-display-multiple-page-pdf-in-r-markdown-html-file
+* slickR https://metrumresearchgroup.github.io/slickR/
 
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
