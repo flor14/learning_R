@@ -249,3 +249,4 @@
 
 ## Extra: R events worldwide
 * https://jumpingrivers.github.io/meetingsR/events.html
+* MathJax for browsers https://www.mathjax.org/
