@@ -190,6 +190,11 @@
 * Teaching Tech Together _Greg Wilson_ http://teachtogether.tech/en/
 * Evidence-based teaching resources for undergraduate biology education https://www.coursesource.org/
 * How to Help Someone Use a Computer by Phil Agre https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/#comments
+* 5 day course https://tidy-ds.wjakethompson.com/#hero
+* Visualización https://magrawala.github.io/cs448b-fa18/
+* RaukR 2019 https://nbisweden.github.io/RaukR-2019/
+* Advance R course _doctoral school of Grenoble, France_ https://privefl.github.io/advr38book/index.html
+* Courses about learning tidyverse https://www.tidyverse.org/learn/
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
@@ -224,13 +229,7 @@
 * Tutorial: build a blog with Jekyll and GitHub pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 * Tutorials for multiple programming languajes by Mike Dane https://www.mikedane.com/
 * https://databasic.io/es/
-
-## Courses
-* Online course starter: R https://github.com/ines/course-starter-r
-* 5 day course https://tidy-ds.wjakethompson.com/#hero
-* Visualización https://magrawala.github.io/cs448b-fa18/
-* RaukR 2019 https://nbisweden.github.io/RaukR-2019/
-* Advance R course _doctoral school of Grenoble, France_ https://privefl.github.io/advr38book/index.html
+* Template online course starter: R https://github.com/ines/course-starter-r
 
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
@@ -238,10 +237,11 @@
 * Zoom
 * https://meet.google.com
 
-## Other tools for taking notes
+## Other tools 
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
 * CARBON Beautiful code chuncks http://bit.ly/30Mmatt
+* MathJax for browsers https://www.mathjax.org/
 
 ## Slides
 * https://speakerdeck.com/
@@ -249,4 +249,3 @@
 
 ## Extra: R events worldwide
 * https://jumpingrivers.github.io/meetingsR/events.html
-* MathJax for browsers https://www.mathjax.org/
