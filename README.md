@@ -242,6 +242,7 @@
 * The Carpentries Pad https://pad.carpentries.org
 * CARBON Beautiful code chuncks http://bit.ly/30Mmatt
 * MathJax for browsers https://www.mathjax.org/
+* Listas de correo https://tinyletter.com/
 
 ## Slides
 * https://speakerdeck.com/
