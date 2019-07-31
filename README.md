@@ -245,6 +245,7 @@
 * CARBON Beautiful code chuncks http://bit.ly/30Mmatt
 * MathJax for browsers https://www.mathjax.org/
 * Listas de correo https://tinyletter.com/
+* How to use Zotero https://ikashnitsky.github.io/2019/zotero/
 
 ## Slides
 * https://speakerdeck.com/
