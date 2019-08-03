@@ -148,6 +148,7 @@
 * Reproducible Science Curriculum https://github.com/Reproducible-Science-Curriculum
 * RMarkdown for Scientists _Nicholas Tierney_ https://rmd4sci.njtierney.com/why-rmarkdown.html#overview
 * Research Compendium https://research-compendium.science/
+* paper - mas impacto si se puede dejar libre https://peerj.com/articles/3208/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
