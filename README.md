@@ -82,6 +82,7 @@
 * Pimp my Rmd https://holtzy.github.io/Pimp-my-rmd/
 * Embed files https://yihui.name/en/2018/07/embed-file/ - https://stackoverflow.com/questions/54072480/how-to-includeand-display-multiple-page-pdf-in-r-markdown-html-file
 * slickR https://metrumresearchgroup.github.io/slickR/
+* Writing academic papers https://daijiang.name/en/2017/04/05/writing-academic-papers-with-rmarkdown/
 
 ### Books
 * R Markdown: The Definitive Guide _Yihui Xie, J. J. Allaire, Garrett Grolemund_ http://bit.ly/2QNTISX
