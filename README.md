@@ -179,7 +179,10 @@
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
 * Evaluating the Success of a Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1904.11907
 * AWS training and certification https://aws.amazon.com/es/training/learning-paths/machine-learning/data-scientist/
+
+### Programación / data science en español
 * *español* Ciencia de datos para curiosos _Martín Montané_ https://bookdown.org/martinmontaneb/CienciaDeDatos/
+* Fundamentos de la Programación Estadística y Data Science en R - Versión tidyverse _German Rosati_ ttps://github.com/gefero/tidy_fund_prog_r
 
 ### Tutorials
 * Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
@@ -216,7 +219,7 @@
 * Docker for begginers _Prakhar Srivastav_ https://docker-curriculum.com/#what-is-docker-
 * Dockerize a shinyapp https://www.bjoern-hartmann.de/post/learn-how-to-dockerize-a-shinyapp-in-7-steps/
 * A Docker tutorial for reproducible research. http://ropenscilabs.github.io/r-docker-tutorial/
-* List of R versions available in Docker https://hub.docker.com/r/rocker/r-ver/tags/
+* List of R versions available in Docker. https://hub.docker.com/r/rocker/r-ver/tags/
 
 ## Testing
 * Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
