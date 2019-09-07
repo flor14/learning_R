@@ -183,11 +183,12 @@
 
 ### Programación / data science en español
 * Ciencia de datos para curiosos _Martín Montané_ https://bookdown.org/martinmontaneb/CienciaDeDatos/
-* Fundamentos de la Programación Estadística y Data Science en R - Versión tidyverse _German Rosati_ ttps://github.com/gefero/tidy_fund_prog_r
-* Ciencia de datos para gente sociale _Vazquez Brust_ https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/
+* Fundamentos de la Programación Estadística y Data Science en R - Versión tidyverse _German Rosati_ https://github.com/gefero/tidy_fund_prog_r
+* Ciencia de datos para gente sociable _Vazquez Brust_ https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/
 * El arte de programar en R Julio Sergio Santana & Efraín Mateos Farfán [español] http://bit.ly/2N2Y1Y8
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * Visualización estática e interactiva con ggplot2 y plotly [español] http://bit.ly/2xI2dqH
+* Curso de R para procesamiento de datos de la Encuesta Permanente de Hogares _Diego y Natsu_ https://diegokoz.github.io/Curso_R_EPH_clases/
 
 ### Tutorials
 * Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
