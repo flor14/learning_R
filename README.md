@@ -259,7 +259,7 @@
 * MathJax for browsers https://www.mathjax.org/
 * Listas de correo https://tinyletter.com/
 * How to use Zotero https://ikashnitsky.github.io/2019/zotero/
-* Undestanding the R help _Kieran Healy_ https://socviz.co/appendix.html#a-little-more-about-r
+* Undestanding the R help _Kieran Healy_ https://socviz.co/
 
 ## Slides
 * https://speakerdeck.com/
