@@ -209,6 +209,7 @@
 * RaukR 2019 https://nbisweden.github.io/RaukR-2019/
 * Advance R course _doctoral school of Grenoble, France_ https://privefl.github.io/advr38book/index.html
 * Courses about learning tidyverse https://www.tidyverse.org/learn/
+* Data Visualization _Kieran Healy_ https://socviz.co/
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
@@ -234,7 +235,6 @@
 * PACKAGES FOR TESTING YOUR R PACKAGE _maelle_ https://itsalocke.com/blog/packages-for-testing-your-r-package/
 
 ### Continuos integration
-
 * A BEGINNER'S GUIDE TO TRAVIS-CI FOR R _Julia Silge_ https://juliasilge.com/blog/beginners-guide-to-travis/
 
 ## Tutorials from different topics
@@ -252,13 +252,14 @@
 * Zoom
 * https://meet.google.com
 
-## Other tools 
+## Others
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
 * CARBON Beautiful code chuncks http://bit.ly/30Mmatt
 * MathJax for browsers https://www.mathjax.org/
 * Listas de correo https://tinyletter.com/
 * How to use Zotero https://ikashnitsky.github.io/2019/zotero/
+* Undestanding the R help _Kieran Healy_ https://socviz.co/appendix.html#a-little-more-about-r
 
 ## Slides
 * https://speakerdeck.com/
