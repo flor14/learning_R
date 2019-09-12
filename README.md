@@ -151,6 +151,7 @@
 * paper - mas impacto si se puede dejar libre https://peerj.com/articles/3208/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD
 * https://www.practicereproducibleresearch.org
 * Git cheatcheet https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/
+* "A Guide to Reproducible Code in Ecology & Evolution" @BritishEcolSoc https://buff.ly/2HXsOWI
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
