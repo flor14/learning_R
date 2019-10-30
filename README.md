@@ -212,6 +212,7 @@
 * Advance R course _doctoral school of Grenoble, France_ https://privefl.github.io/advr38book/index.html
 * Courses about learning tidyverse https://www.tidyverse.org/learn/
 * Data Visualization _Kieran Healy_ https://socviz.co/
+* Teaching Tech Together, Greg Wilson, Taylor & Francis, 2019, 978-0-367-35328-5. https://teachtogether.tech/
 
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
