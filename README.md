@@ -159,6 +159,7 @@
 * The Turing Way https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 * ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
 * DRAKE package https://ropenscilabs.github.io/drake-manual/index.html#why-drake
+* Nusch - How to Read a Research Compendium https://arxiv.org/pdf/1806.09525.pdf
 
 ## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
