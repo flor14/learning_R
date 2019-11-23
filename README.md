@@ -267,6 +267,7 @@
 * How to use Zotero https://ikashnitsky.github.io/2019/zotero/
 * Undestanding the R help _Kieran Healy_ https://socviz.co/
 * Lista de blogs contribuidas https://awesome-blogdown.com/
+* Guía de traducción al inglés https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md
 
 ## Slides
 * https://speakerdeck.com/
