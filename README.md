@@ -173,10 +173,11 @@
 * Estadistica Computacional https://tereom.github.io/est-computacional-2018/
 * Learning statistics with R https://learningstatisticswithr.com/book/
 
-### PCA
+### Multivariado
 * Introduction to statistical learning de Hastie y Tibshirani https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
 * Análisis de datos multivariantes _Peña_ https://www.researchgate.net/publication/40944325_Analisis_de_Datos_Multivariantes
 * Nuevos métodos de análisis multivariante _Cuadras_ http://www.ub.edu/stat/personal/cuadras/metodos.pdf
+* Diferencia entre algoritmos de clustering https://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 
 ## Data Science
 * Elements and Principles of Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1903.07639
