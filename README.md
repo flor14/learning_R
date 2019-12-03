@@ -259,6 +259,9 @@
 * Zoom
 * https://meet.google.com
 
+## Free events
+* https://attending.io/
+
 ## Others
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
