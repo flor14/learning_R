@@ -259,6 +259,13 @@
 * Zoom
 * https://meet.google.com
 
+## Podcasts
+Credibly Curious is about R: https://soundcloud.com/crediblycurious
+Not so standard deviations: http://nssdeviations.com/
+The corresponding author: Academic Data Science https://twitter.com/CorrespondAuth (editado) 
+Casual Infer: http://casualinfer.libsyn.com/ 
+R podcast: https://r-podcast.org/r
+
 ## Free events
 * https://attending.io/
 
