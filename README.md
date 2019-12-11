@@ -153,6 +153,7 @@
 * Git cheatcheet https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/
 * "A Guide to Reproducible Code in Ecology & Evolution" @BritishEcolSoc https://buff.ly/2HXsOWI
 * Anna's slides about reproducible science with R https://annakrystalli.me/talks/r-in-repro-research.html#1
+* Binder rstudio ide https://github.com/binder-examples/r_with_python
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
