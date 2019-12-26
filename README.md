@@ -260,15 +260,24 @@
 * Zoom
 * https://meet.google.com
 
-## Podcasts
+## Extra: Podcasts
 * Credibly Curious is about R: https://soundcloud.com/crediblycurious
 * Not so standard deviations: http://nssdeviations.com/
 * The corresponding author: Academic Data Science https://twitter.com/CorrespondAuth (editado) 
 * Casual Infer: http://casualinfer.libsyn.com/ 
 * R podcast: https://r-podcast.org/r
 
-## Free events
+## Extra: Free events
 * Simil meetup but free https://attending.io/
+
+## Extra: Slides
+* https://speakerdeck.com/
+* https://slides.com/
+
+## Extra: R events worldwide
+* List of events https://jumpingrivers.github.io/meetingsR/events.html
+* Attend to a conference https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552
+* Guia de eventos de R https://unconf-toolbox.github.io/unconf-guide/index.html
 
 ## Others
 * Collaborative Markdown notes https://hackmd.io
@@ -281,12 +290,3 @@
 * Lista de blogs contribuidas https://awesome-blogdown.com/
 * Guía de traducción al inglés https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md
 * Como resolver entrevistas https://www.youtube.com/watch?v=Csl2ccBpo4g&feature=youtu.be
-
-## Slides
-* https://speakerdeck.com/
-* https://slides.com/
-
-## Extra: R events worldwide
-* List of events https://jumpingrivers.github.io/meetingsR/events.html
-* Attend to a conference https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552
-* Guia de eventos de R https://unconf-toolbox.github.io/unconf-guide/index.html
