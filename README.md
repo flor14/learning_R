@@ -245,7 +245,7 @@
 ### Continuos integration
 * A BEGINNER'S GUIDE TO TRAVIS-CI FOR R _Julia Silge_ https://juliasilge.com/blog/beginners-guide-to-travis/
 
-## Tutorials from different topics
+## Tutorials / different topics
 * Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
 * The coding club https://ourcodingclub.github.io/tutorials/
 * Javascript vs Data science https://software-tools-in-javascript.github.io/js-vs-ds/en/
@@ -256,7 +256,7 @@
 
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
-* Without installing www.appear.in
+* Without installing https://whereby.com/
 * Zoom
 * https://meet.google.com
 
@@ -280,6 +280,7 @@ R podcast: https://r-podcast.org/r
 * Undestanding the R help _Kieran Healy_ https://socviz.co/
 * Lista de blogs contribuidas https://awesome-blogdown.com/
 * Guía de traducción al inglés https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md
+* Como resolver entrevistas https://www.youtube.com/watch?v=Csl2ccBpo4g&feature=youtu.be
 
 ## Slides
 * https://speakerdeck.com/
