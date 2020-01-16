@@ -154,6 +154,8 @@
 * "A Guide to Reproducible Code in Ecology & Evolution" @BritishEcolSoc https://buff.ly/2HXsOWI
 * Anna's slides about reproducible science with R https://annakrystalli.me/talks/r-in-repro-research.html#1
 * Binder rstudio ide https://github.com/binder-examples/r_with_python
+* _renv_ reemplace of packrat https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/
+* checkpoint - Install Packages from Snapshots on the Checkpoint Server for Reproducibility https://github.com/RevolutionAnalytics/checkpoint
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
