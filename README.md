@@ -156,6 +156,7 @@
 * Binder rstudio ide https://github.com/binder-examples/r_with_python
 * _renv_ reemplace of packrat https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/
 * checkpoint - Install Packages from Snapshots on the Checkpoint Server for Reproducibility https://github.com/RevolutionAnalytics/checkpoint
+* Mine slides 
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
@@ -187,6 +188,7 @@
 * Evaluating the Success of a Data Analysis _Hicks SC, Peng RD_ https://arxiv.org/abs/1904.11907
 * AWS training and certification https://aws.amazon.com/es/training/learning-paths/machine-learning/data-scientist/
 * Introduction to Open Data Science _The Ocean Health Index Team_ http://ohi-science.org/data-science-training/index.html
+* https://stat545.com/index.html
 
 ### Programación / data science en español
 * Ciencia de datos para curiosos _Martín Montané_ https://bookdown.org/martinmontaneb/CienciaDeDatos/
