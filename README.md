@@ -157,6 +157,7 @@
 * _renv_ reemplace of packrat https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/
 * checkpoint - Install Packages from Snapshots on the Checkpoint Server for Reproducibility https://github.com/RevolutionAnalytics/checkpoint
 * Mine slides 
+* A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility. Nicholas J Tierney* (1,2) & Karthik Ram* (3) https://github.com/karthik/ddd
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
