@@ -166,6 +166,12 @@
 * DRAKE package https://ropenscilabs.github.io/drake-manual/index.html#why-drake
 * Nusch - How to Read a Research Compendium https://arxiv.org/pdf/1806.09525.pdf
 
+## Replicate papers (databases)
+
+* Social sciencies and economics https://replication.uni-goettingen.de/wiki/index.php/Main_Page?fbclid=IwAR2wATNeFvUIIwa0e0oiutoirThwt35MpwXvmdC16cpspOzxgUVqVdJzCZY
+
+* Harvard Dataverse https://dataverse.harvard.edu/
+
 ## Journals or pages related
 * Reproducibility Project: Psychology https://osf.io/ezcuj/
 * Curate Science https://curatescience.org/app/
