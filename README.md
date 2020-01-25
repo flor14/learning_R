@@ -169,7 +169,6 @@
 ## Replicate papers (databases)
 
 * Social sciencies and economics https://replication.uni-goettingen.de/wiki/index.php/Main_Page?fbclid=IwAR2wATNeFvUIIwa0e0oiutoirThwt35MpwXvmdC16cpspOzxgUVqVdJzCZY
-
 * Harvard Dataverse https://dataverse.harvard.edu/
 
 ## Journals or pages related
@@ -183,6 +182,9 @@
 * Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
 * Estadistica Computacional https://tereom.github.io/est-computacional-2018/
 * Learning statistics with R https://learningstatisticswithr.com/book/
+
+## Tidyverse 
+* Welcome to the tidyverse https://joss.theoj.org/papers/10.21105/joss.01686
 
 ### Multivariado
 * Introduction to statistical learning de Hastie y Tibshirani https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
