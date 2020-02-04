@@ -248,6 +248,7 @@
 * List of R versions available in Docker. https://hub.docker.com/r/rocker/r-ver/tags/
 * docknitr: Use Docker Images to Process Rmarkdown Blocks https://cran.r-project.org/web/packages/docknitr/index.html
 * Nature: cloud services https://www.nature.com/articles/d41586-019-03366-x?utm_source=twitter&utm_medium=social&utm_campaign=crs-&utm_content=171119v1
+* Leccion carpentries https://carpentries-incubator.github.io/docker-introduction/
 
 ## Testing
 * Software Quality - TDD and unit testing in R using the 'testthat' package https://pparacch.github.io/2017/05/18/test_driven_development_in_r.html
