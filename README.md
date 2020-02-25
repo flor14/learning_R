@@ -237,6 +237,7 @@
 * Resources for Taxonomy and Biodiversity. ROpenSci. https://ropensci.org/blog/2019/03/11/commcall-mar2019/
 * Bioinformatics _Bernard Klaus_ https://www.huber.embl.de/users/klaus/teaching.html#statistical-methods-in-bioinformatics
 * Data carpentry for Biologists https://datacarpentry.org/semester-biology/nav/getting-started/
+* DATA SCIENCE FOR ECOLOGISTS AND ENVIRONMENTAL SCIENTISTS https://ourcodingclub.github.io/course.html?fbclid=IwAR1M5xhRXmdXH5EsIExLabpIK1llb8AOQ2n0qncSvkVE3JUYDuveXijk9EM
 
 ## Docker for the UseR
 * Docker for the UseR _Noam Ross_ https://github.com/noamross/nyhackr-docker-talk
