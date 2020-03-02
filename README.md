@@ -39,6 +39,7 @@
 * Data Processing with dplyr & tidyr (Rpubs) http://bit.ly/2Aah7Zd
 * Introducción a tidyr: Datos ordenados en R (Rpubs) [español] http://bit.ly/2AaWV9T
 * dplyr Rstudio cheatsheet http://bit.ly/2IEwRcM
+* Suzan blog con tutorial de dplyr en 3 partes https://suzan.rbind.io/2018/02/dplyr-tutorial-3/
 
 ## data.table Package 
 * Intro to data.table Package http://bit.ly/2Aa6Yf3
