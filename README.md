@@ -166,6 +166,7 @@
 * ReScience C is an open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible http://rescience.github.io/
 * DRAKE package https://ropenscilabs.github.io/drake-manual/index.html#why-drake
 * Nusch - How to Read a Research Compendium https://arxiv.org/pdf/1806.09525.pdf
+* rrtools tutorial anna krystalli https://annakrystalli.me/rrtools-repro-research/paper.html
 
 ## Replicate papers (databases)
 
