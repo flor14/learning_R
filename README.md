@@ -277,6 +277,21 @@
 * Zoom
 * https://meet.google.com
 
+## Extra: online meetups (teaching online) Contributed by several R-Ladies - see gdoc
+* https://twitter.com/CivicAngela/status/1238481908633423873
+* https://www.linkedin.com/pulse/virtual-meetups-noa-tamir/
+* https://codebuddies.org/ From Heather Turner
+* https://carpentries.org/blog/2020/03/tips-for-teaching-online/ 
+* https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md#during-the-event From Heather Turner
+* https://codeshare.io/
+* https://coronavirustechhandbook.com/education
+* https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?usp=sharing
+(satRday Neuchâtel)
+* https://help.meetup.com/hc/en-us/articles/360041040931 
+* https://help.meetup.com/hc/en-us/articles/360040609112 
+* AUDIO CALLS https://www.mumble.com/
+
+
 ## Extra: Podcasts
 * Credibly Curious is about R: https://soundcloud.com/crediblycurious
 * Not so standard deviations: http://nssdeviations.com/
