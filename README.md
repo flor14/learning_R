@@ -167,6 +167,7 @@
 * DRAKE package https://ropenscilabs.github.io/drake-manual/index.html#why-drake
 * Nusch - How to Read a Research Compendium https://arxiv.org/pdf/1806.09525.pdf
 * rrtools tutorial anna krystalli https://annakrystalli.me/rrtools-repro-research/paper.html
+* codecheck https://codecheck.org.uk/
 
 ## Replicate papers (databases)
 
