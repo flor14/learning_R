@@ -159,6 +159,7 @@
 * checkpoint - Install Packages from Snapshots on the Checkpoint Server for Reproducibility https://github.com/RevolutionAnalytics/checkpoint
 * Mine slides 
 * A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility. Nicholas J Tierney* (1,2) & Karthik Ram* (3) https://github.com/karthik/ddd
+* Software and workflow development practices (April 2020 update) Titus Brown http://ivory.idyll.org/blog/2020-software-and-workflow-dev-practices.html
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
