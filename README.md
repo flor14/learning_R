@@ -277,8 +277,13 @@
 * Share code online https://twitter.com/code
 
 ## Education
-
 * Repo https://github.com/flor14/educacion_teaching
+
+## Extra: online events
+* https://carpentries.org/online-workshop-recommendations/
+* https://bookwhen.com/betteronlinemeetings
+* https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/
+* Jumping into digital lessons https://www.youtube.com/watch?v=w0DHye2M1IM
 
 ## Extra: Podcasts
 * Credibly Curious is about R: https://soundcloud.com/crediblycurious
