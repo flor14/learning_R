@@ -172,7 +172,6 @@
 * codecheck https://codecheck.org.uk/
 
 ## Replicate papers (databases)
-
 * Social sciencies and economics https://replication.uni-goettingen.de/wiki/index.php/Main_Page?fbclid=IwAR2wATNeFvUIIwa0e0oiutoirThwt35MpwXvmdC16cpspOzxgUVqVdJzCZY
 * Harvard Dataverse https://dataverse.harvard.edu/
 
@@ -187,6 +186,14 @@
 * Courses in Statistics https://www.coursera.org/instructor/minecetinkayarundel
 * Estadistica Computacional https://tereom.github.io/est-computacional-2018/
 * Learning statistics with R https://learningstatisticswithr.com/book/
+* https://allisonhorst.shinyapps.io/missingexplorer/
+* https://brandonhoenig.shinyapps.io/IntroToR/ 
+* https://cal-poly-advanced-r.github.io/STAT-431/ 
+* https://datavizm20.classes.andrewheiss.com/ 
+* https://bookdown.org/ansellbr/WEHI_tidyR_course_book/
+* https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists/tree/1.0.0 
+* https://github.com/adw96/biostat561/
+* https://www.infoworld.com/video/series/8563/do-more-with-r
 
 ## Tidyverse 
 * Welcome to the tidyverse https://joss.theoj.org/papers/10.21105/joss.01686
@@ -316,3 +323,5 @@
 * Lista de blogs contribuidas https://awesome-blogdown.com/
 * Guía de traducción al inglés https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md
 * Como resolver entrevistas https://www.youtube.com/watch?v=Csl2ccBpo4g&feature=youtu.be
+
+
