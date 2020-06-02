@@ -272,9 +272,9 @@
 ## Extra: online meetups (teaching online) Contributed by several R-Ladies - see gdoc
 * https://twitter.com/CivicAngela/status/1238481908633423873
 * https://www.linkedin.com/pulse/virtual-meetups-noa-tamir/
-* https://codebuddies.org/ From Heather Turner
+* https://codebuddies.org/ 
 * https://carpentries.org/blog/2020/03/tips-for-teaching-online/ 
-* https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md#during-the-event From Heather Turner
+* https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md#during-the-event 
 * https://codeshare.io/
 * https://coronavirustechhandbook.com/education
 * https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?usp=sharing
