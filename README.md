@@ -72,6 +72,7 @@
 * Understanding Shiny Modules [video] http://bit.ly/2AaTuzS
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Building big Shiny Apps _Colin Fay_ https://thinkr-open.github.io/building-shiny-apps-workflow/golem.html
+* ShinyProxy y links a otros posteos sobre deploy https://www.databentobox.com/2020/05/31/shinyproxy-with-docker-swarm/?fbclid=IwAR1EaMVe5v3iAz9MyC8SxTjUx6bGGgWY3F6eTme24OA-k9lRKwA4mtq6VxA
 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
