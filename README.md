@@ -314,6 +314,7 @@
 * Guia de eventos de R https://unconf-toolbox.github.io/unconf-guide/index.html
 
 ## Others
+* Toolkit https://toolkits.dss.cloud/design/
 * Collaborative Markdown notes https://hackmd.io
 * The Carpentries Pad https://pad.carpentries.org
 * CARBON Beautiful code chuncks http://bit.ly/30Mmatt
