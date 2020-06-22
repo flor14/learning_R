@@ -271,6 +271,7 @@
 * https://meet.google.com
 
 ## Extra: online meetups (teaching online) Contributed by several R-Ladies - see gdoc
+* https://codeocean.com/ code with others
 * https://twitter.com/CivicAngela/status/1238481908633423873
 * https://www.linkedin.com/pulse/virtual-meetups-noa-tamir/
 * https://codebuddies.org/ 
