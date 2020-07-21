@@ -27,6 +27,10 @@
 * Managing - Part 3 (Packrat and RStudio) http://bit.ly/2AazLAs
 * Debugging techniques in RStudio _Amanda Gadrow_ [video] http://bit.ly/2QQD4C2
 
+
+* RStudio IDE https://frahik.github.io/DiplomadoR/RStudio.html
+
+
 ## tidyr and dplyr Packages
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Tidy eval: Programming with dplyr, tidyr, and ggplot2 _Hadley Wickham_ [Video] http://bit.ly/2QR07N5
@@ -131,6 +135,9 @@
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 * Layouts https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html
 * An Introduction to Spatial Data Analysis and Visualisation in R _Guy Lansley and James Cheshire_https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r
+
+* Datos geoespaciales en español - Victor Olaya: https://t.co/LGXktkibl6?amp=1
+
 
 ## Reproducible Research & Open Science
 * Best Practices for Scientific Computing _Greg Wilson … Paul Wilson_ | *PLoS Biology 2014* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
