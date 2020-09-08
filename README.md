@@ -169,6 +169,8 @@
 * A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility. Nicholas J Tierney* (1,2) & Karthik Ram* (3) https://github.com/karthik/ddd
 * Software and workflow development practices (April 2020 update) Titus Brown http://ivory.idyll.org/blog/2020-software-and-workflow-dev-practices.html
 * Nüst, D., Sochat, V., Marwick, B., Eglen, S., Head, T., Hirst, T., & Evans, B. (2020, April 17). Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science. https://doi.org/10.31219/osf.io/fsd7t
+* Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press. https://www.practicereproducibleresearch.org/case-studies/dsinghania.html
+* 
 
 ### ReproHack
 * Find out research reproducibility https://scigen.report/
