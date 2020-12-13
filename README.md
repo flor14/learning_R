@@ -34,6 +34,7 @@
 ## tidyr and dplyr Packages
 * Tidy evaluation is one of the major feature of the latest versions of dplyr and tidyr [Video] http://bit.ly/2AbXJLs
 * Tidy eval: Programming with dplyr, tidyr, and ggplot2 _Hadley Wickham_ [Video] http://bit.ly/2QR07N5
+* [Tidyevaluation UseR! 2019](http://www.user2019.fr/static/pres/t257103.pdf)
 * Data wrangling with R and RStudio [Video] http://bit.ly/2AaocZX slides: http://bit.ly/2QSr7vS
 * dplyr tutorials _Suzan Baert_ http://bit.ly/2AbSHi2
 * dplyr 10 tips and tricks _Suzan Baert (RoCur WeAreRLadies)_ http://bit.ly/2AaWb4k
@@ -230,10 +231,6 @@
 * Visualización estática e interactiva con ggplot2 y plotly [español] http://bit.ly/2xI2dqH
 * Curso de R para procesamiento de datos de la Encuesta Permanente de Hogares _Diego y Natsu_ https://diegokoz.github.io/Curso_R_EPH_clases/
 
-### Tutorials
-* Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
-* Swirl. Learn R in R https://swirlstats.com/
-
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
 * The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
@@ -263,6 +260,7 @@
 
 ### Continuos integration
 * A BEGINNER'S GUIDE TO TRAVIS-CI FOR R _Julia Silge_ https://juliasilge.com/blog/beginners-guide-to-travis/
+* Charla de Jim Hester sobre github actions 
 
 ## Tutorials / different topics
 * Learning Javascript https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
@@ -272,6 +270,13 @@
 * Tutorials for multiple programming languajes by Mike Dane https://www.mikedane.com/
 * https://databasic.io/es/
 * Template online course starter: R https://github.com/ines/course-starter-r
+
+### Tutorials
+* Chromebook Data Science https://jhudatascience.org/chromebookdatascience/
+* Swirl. Learn R in R https://swirlstats.com/
+
+### R base
+* Diferencia entre rank, sort y order https://towardsdatascience.com/r-rank-vs-order-753cc7665951
 
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
