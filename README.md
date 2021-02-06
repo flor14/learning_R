@@ -278,6 +278,10 @@
 ### R base
 * Diferencia entre rank, sort y order https://towardsdatascience.com/r-rank-vs-order-753cc7665951
 
+### Blog
+* https://makingwebsiteswithr.rbind.io/tutorial/01-install-blogdown/
+* 
+
 ## Extra: Virtual meetings
 * Slack https://jitsi.org/slack/
 * Without installing https://whereby.com/
