@@ -78,7 +78,8 @@
 * Interactive Graphics with Shiny [video] http://bit.ly/2Aau45h
 * Building big Shiny Apps _Colin Fay_ https://thinkr-open.github.io/building-shiny-apps-workflow/golem.html
 * ShinyProxy y links a otros posteos sobre deploy https://www.databentobox.com/2020/05/31/shinyproxy-with-docker-swarm/?fbclid=IwAR1EaMVe5v3iAz9MyC8SxTjUx6bGGgWY3F6eTme24OA-k9lRKwA4mtq6VxA
-
+* SHINY APP DATA VIS https://nshrest.shinyapps.io/datawhats/
+* 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
 * R Markdown articles http://bit.ly/2A9LfEe
@@ -205,6 +206,7 @@
 * https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists/tree/1.0.0 
 * https://github.com/adw96/biostat561/
 * https://www.infoworld.com/video/series/8563/do-more-with-r
+
 
 ## Tidyverse 
 * Welcome to the tidyverse https://joss.theoj.org/papers/10.21105/joss.01686
