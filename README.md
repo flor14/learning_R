@@ -79,7 +79,14 @@
 * Building big Shiny Apps _Colin Fay_ https://thinkr-open.github.io/building-shiny-apps-workflow/golem.html
 * ShinyProxy y links a otros posteos sobre deploy https://www.databentobox.com/2020/05/31/shinyproxy-with-docker-swarm/?fbclid=IwAR1EaMVe5v3iAz9MyC8SxTjUx6bGGgWY3F6eTme24OA-k9lRKwA4mtq6VxA
 * SHINY APP DATA VIS https://nshrest.shinyapps.io/datawhats/
-* 
+
+
+## Shiny deploy
+* shinyapps.io https://docs.rstudio.com/shinyapps.io/index.html
+* Data storage shiny app https://shiny.rstudio.com/articles/persistent-data-storage.html#local-vs-remote
+* Deploying with googlesheets4 https://medium.com/@JosiahParry/googlesheets4-authentication-for-deployment-9e994b4c81d6
+
+
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
 * R Markdown articles http://bit.ly/2A9LfEe
