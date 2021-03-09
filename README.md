@@ -240,6 +240,9 @@
 * Visualización estática e interactiva con ggplot2 y plotly [español] http://bit.ly/2xI2dqH
 * Curso de R para procesamiento de datos de la Encuesta Permanente de Hogares _Diego y Natsu_ https://diegokoz.github.io/Curso_R_EPH_clases/
 
+## RSE
+* https://imperialcollegelondon.github.io/grad_school_software_engineering_course/
+
 ## Biology and Environmental Sciences
 * Modern Statistics for Modern Biology _Holmes, S and Huber, W_ https://www.huber.embl.de/msmb/
 * The R class _R programming for biologists_ http://r-bio.github.io/01-intro-R/
