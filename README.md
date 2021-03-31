@@ -362,4 +362,4 @@
 
 
 ## Extra: genero
-* Guia de escritura con perspectiva de genero
+* Guia de escritura con perspectiva de genero https://www.argentina.gob.ar/sites/default/files/guia_para_una_comunicacion_con_perspectiva_de_genero_-_mmgyd_y_presidencia_de_la_nacion.pdf
