@@ -361,3 +361,5 @@
 * Como resolver entrevistas https://www.youtube.com/watch?v=Csl2ccBpo4g&feature=youtu.be
 
 
+## Extra: genero
+* Guia de escritura con perspectiva de genero
