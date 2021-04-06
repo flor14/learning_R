@@ -86,6 +86,9 @@
 * Data storage shiny app https://shiny.rstudio.com/articles/persistent-data-storage.html#local-vs-remote
 * Deploying with googlesheets4 https://medium.com/@JosiahParry/googlesheets4-authentication-for-deployment-9e994b4c81d6
 
+## Interative plots
+* Interactive web-based data visualization with R, plotly, and shiny _Carson Sievert_ https://plotly-r.com/index.html
+* Dash for R users https://dashr.plotly.com/
 
 ## R Markdown
 * R Markdown Gallery http://bit.ly/2QPHxoI
@@ -144,8 +147,8 @@
 * Spatial modelling using ‘raster’ package (useR! Conf 2018) - [Part 1] http://bit.ly/2SJ9PTB [Part 2] http://bit.ly/2SIJgOr
 * Layouts https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html
 * An Introduction to Spatial Data Analysis and Visualisation in R _Guy Lansley and James Cheshire_https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r
-
 * Datos geoespaciales en español - Victor Olaya: https://t.co/LGXktkibl6?amp=1
+* Raster operations in R https://mgimond.github.io/Spatial/raster-operations-in-r.html
 
 
 ## Reproducible Research & Open Science
