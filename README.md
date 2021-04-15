@@ -319,6 +319,9 @@
 * AUDIO CALLS https://www.mumble.com/
 * Share code online https://twitter.com/code
 
+# Otros blogs de interes
+* What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text https://kunststube.net/encoding/
+
 # Extra: subtitles
 * Amara https://amara.org/
 
@@ -362,7 +365,6 @@
 * Lista de blogs contribuidas https://awesome-blogdown.com/
 * Guía de traducción al inglés https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md
 * Como resolver entrevistas https://www.youtube.com/watch?v=Csl2ccBpo4g&feature=youtu.be
-
 
 ## Extra: genero
 * Guia de escritura con perspectiva de genero https://www.argentina.gob.ar/sites/default/files/guia_para_una_comunicacion_con_perspectiva_de_genero_-_mmgyd_y_presidencia_de_la_nacion.pdf
